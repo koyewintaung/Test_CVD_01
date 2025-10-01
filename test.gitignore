@@ -1,0 +1,13 @@
+# Ignore raw data
+data/*.csv
+data/*.xlsx
+!data/sample_data.csv   # keep only safe demo file if you want
+
+# Ignore model files
+*.joblib
+*.pkl
+
+# Ignore environment stuff
+.env
+__pycache__/
+.ipynb_checkpoints/
