@@ -1,0 +1,13 @@
+my-project/
+├─ data/
+│  ├─ raw/
+│  └─ processed/
+├─ notebooks/
+├─ src/
+│  ├─ data_processing.py
+│  ├─ features.py
+│  └─ modeling.py
+├─ app/
+│  └─ streamlit_app.py
+├─ requirements.txt
+└─ README.md
